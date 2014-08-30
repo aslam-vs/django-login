@@ -1,0 +1,9 @@
+http://taimoorchangaizpucitian.wordpress.com/2013/09/01/sublime-text-2-installation-ubuntu/
+
+Install pip : sudo apt-get install python-pip
+
+Install virtualenv : sudo pip install virtualenv
+
+Start Django-project : django-admin.py startproject mysite
+
+Create Apps : python manage.py startapp polls
